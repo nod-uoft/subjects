@@ -59,7 +59,7 @@ gem 'acts_as_family_tree',        '1.3.2',        github: 'thl/acts_as_family_tr
 gem 'authenticated_system',       '2.5.6',        github: 'thl/authenticated_system',        tag: 'v2.5.6' #path: '../../thl/engines/authenticated_system'
 gem 'complex_dates',              '2.4.5',        github: 'thl/complex_dates',               tag: 'v2.4.5' #path: '../../thl/engines/complex_dates'
 gem 'complex_scripts',            '3.2.8',        github: 'thl/complex_scripts',             tag: 'v3.2.8' #path: '../../thl/engines/complex_scripts'
-gem 'interface_utils',            '2.4.8',        github: 'thl/interface_utils',             tag: 'v2.4.8' #path: '../../thl/engines/interface_utils'
+gem 'interface_utils',            '2.4.9',        github: 'thl/interface_utils',             tag: 'v2.4.9' #path: '../../thl/engines/interface_utils'
 gem 'flare',                      '1.5.1',        github: 'shanti-uva/flare',                tag: 'v1.5.1' #path: '../engines/flare'
 gem 'ffi-icu',                    '0.5.4',        github: 'shanti-uva/ffi-icu',              tag: 'v0.5.4' #path: '../engines/ffi-icu'
 gem 'kmaps_engine',               '7.0.8',        github: 'shanti-uva/kmaps_engine',         tag: 'v7.0.8' #path: '../engines/kmaps_engine'
@@ -70,7 +70,7 @@ gem 'shanti_integration',         '3.6.9',        github: 'shanti-uva/shanti_int
 #gem 'topical_map_integration',    '3.1.1',        github: 'thl/topical_map_integration',     tag: 'v3.1.1' #path: '../../thl/engines/topical_map_integration'
 #gem 'topical_map_to_kmaps',       '0.1.1',        github: 'shanti-uva/topical_map_to_kmaps', tag: 'v0.1.1' #path: '../engines/topical_map_to_kmaps'
 gem 'subjects_engine',            '1.7.5',        github: 'shanti-uva/subjects_engine',      tag: 'v1.7.5' #path: '../engines/subjects_engine'
-gem 'subjects_integration',       '0.3.7',        github: 'shanti-uva/subjects_integration', tag: 'v0.3.7' #path: '../engines/subjects_integration'
+gem 'subjects_integration',       '0.3.8',        github: 'shanti-uva/subjects_integration', tag: 'v0.3.8' #path: '../engines/subjects_integration'
 gem 'universal_navigation',       '3.1.7',        github: 'thl/universal_navigation',        tag: 'v3.1.7' #path: '../../thl/engines/universal_navigation'
 
 # CHECK TO SEE IF I NEED TO DELETE LATER:
