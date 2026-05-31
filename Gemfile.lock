@@ -8,10 +8,10 @@ GIT
 
 GIT
   remote: https://github.com/nod-uoft/nod_integration.git
-  revision: 584b588e2098ef87af9aeca2a93024eac0c91822
-  tag: v0.1.1
+  revision: 7906ba47ad8562c55603f423ede5b05bc67b0fe9
+  tag: v0.1.2
   specs:
-    nod_integration (0.1.1)
+    nod_integration (0.1.2)
       rails
 
 GIT
@@ -569,7 +569,7 @@ DEPENDENCIES
   kmaps_engine (= 7.0.8)!
   mms_integration (= 2.5.0)!
   newrelic_rpm
-  nod_integration (= 0.1.1)!
+  nod_integration (= 0.1.2)!
   pg (= 1.5.9)
   places_integration (= 2.3.1)!
   rack-openid
