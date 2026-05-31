@@ -7,6 +7,14 @@ GIT
       railties (>= 3.2.16)
 
 GIT
+  remote: https://github.com/nod-uoft/nod_integration.git
+  revision: 584b588e2098ef87af9aeca2a93024eac0c91822
+  tag: v0.1.1
+  specs:
+    nod_integration (0.1.1)
+      rails
+
+GIT
   remote: https://github.com/rails/actionpack-action_caching.git
   revision: 05c821ec84eb79760e95b0a57ae72919eefb0257
   specs:
@@ -190,12 +198,6 @@ GIT
   tag: v3.1.7
   specs:
     universal_navigation (3.1.7)
-      rails
-
-PATH
-  remote: ../engines/nod_integration
-  specs:
-    nod_integration (0.1.1)
       rails
 
 GEM
